@@ -34,4 +34,4 @@ class GroupHelper:
         self.group_editor.wait('visible')
 
     def close_group_editor(self):
-        self.group_editor.close(
+        self.group_editor.close()
